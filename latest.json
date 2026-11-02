@@ -1,19 +1,19 @@
 {
-  "tag_name": "v0.8.35",
+  "tag_name": "v0.8.36",
   "draft": false,
   "prerelease": false,
-  "html_url": "https://github.com/Vihten/KODO_Updates/releases/tag/v0.8.35",
+  "html_url": "https://github.com/Vihten/KODO_Updates/releases/tag/v0.8.36",
   "body": "",
   "assets": [
     {
-      "name": "KODO-0.8.35-windows-x64.update.json",
+      "name": "KODO-0.8.36-windows-x64.update.json",
       "size": 245,
-      "browser_download_url": "https://github.com/Vihten/KODO_Updates/releases/download/v0.8.35/KODO-0.8.35-windows-x64.update.json"
+      "browser_download_url": "https://github.com/Vihten/KODO_Updates/releases/download/v0.8.36/KODO-0.8.36-windows-x64.update.json"
     },
     {
-      "name": "KODO-0.8.35-Setup-x64.exe",
-      "size": 13066214,
-      "browser_download_url": "https://github.com/Vihten/KODO_Updates/releases/download/v0.8.35/KODO-0.8.35-Setup-x64.exe"
+      "name": "KODO-0.8.36-Setup-x64.exe",
+      "size": 13065935,
+      "browser_download_url": "https://github.com/Vihten/KODO_Updates/releases/download/v0.8.36/KODO-0.8.36-Setup-x64.exe"
     }
   ]
 }
